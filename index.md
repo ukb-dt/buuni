@@ -41,7 +41,7 @@ $$
 
 ---
 
-### **Stage 1: Conditional Encoding (Roots)**
+### **Stage 1: Conditional [Encoding](https://ukb-dt.github.io/munanura/) (Roots)**
 $$
 E(t \mid x) + \epsilon
 $$
