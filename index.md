@@ -133,7 +133,7 @@ $$
 **Rank** by:
 - Raw yield $\Delta S_i$
 - Gradient efficiency $dE_{x_i}/dt$ (how steep was the climb?)
-- Curvature leverage $|d^2E_{x_i}/dt^2|$ (where were the pivot points?)
+- Curvature leverage $|d^2E_{x_i}/dt^2 \mid $ (where were the pivot points?)
 - Shock-adjusted yield $\Delta S_i - \epsilon_i t$ (skill vs. luck)
 
 **Resample** next generation:
